@@ -14,7 +14,7 @@ $ curl -sS https://getcomposer.org/installer | php
 $ sudo mv composer.phar /usr/local/bin/composer
 ```
 
-Craete a database and change .env accordingly
+Create a database and change .env accordingly
 
 Run Migration
 
