@@ -29,3 +29,8 @@ php artisan serve
 ```
 
 Visit localhost:8000
+
+## Register as an Admin
+
+Type ckpp345s in code texinput area
+
