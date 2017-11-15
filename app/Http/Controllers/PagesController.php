@@ -43,7 +43,7 @@ class PagesController extends Controller
          $client = new Client(['base_uri' => 'https://api.themoviedb.org/']);
         //guzzle
          $response = $client->get('https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=aa8b43b8cbce9d1689bef3d0c3087e4d&limit=5');
-         $popular_movies=array_pluck($response->json()['results'], 'original_title', 'poster_path');
+         $popular_movies=array_pluck( json_decode($response->getBody()->getContents(), true)['results'], 'original_title', 'poster_path');
         array_splice($popular_movies, 4);
         
         return view('layouts.movie_night', compact('popular_movies'));
