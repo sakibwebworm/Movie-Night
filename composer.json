@@ -16,15 +16,16 @@
         "barryvdh/laravel-cors": "^0.7.3",
         "guzzlehttp/guzzle": "^4",
         "nicolaslopezj/searchable": "1.*",
-        "squizlabs/php_codesniffer": "^2.6"
-},
-    "require-dev": {
-        "fzaninotto/faker": "~1.4",
+        "squizlabs/php_codesniffer": "^2.6",
+	"fzaninotto/faker": "~1.4",
         "mockery/mockery": "0.9.*",
         "phpunit/phpunit": "~4.0",
         "symfony/css-selector": "2.8.*|3.0.*",
         "symfony/dom-crawler": "2.8.*|3.0.*",
         "laracasts/generators": "^1.1"
+},
+    "require-dev": {
+        
     },
     "autoload": {
         "classmap": [
