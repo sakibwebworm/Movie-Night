@@ -1,4 +1,4 @@
-A Movie Cms Powered by Laravel and Angular.Thsi project can be a perfect headstart for a video blog,movie review system or anything where your imaginations lead you :).
+A Movie Cms Powered by Laravel and Angular.This project can be a perfect headstart for a video blog,movie review system or anything where your imaginations lead you :).
 
 #Admin Panel
 
@@ -16,10 +16,10 @@ A Movie Cms Powered by Laravel and Angular.Thsi project can be a perfect headsta
 <li>User Roles as admin an user. It is possible to add more roles if needed.</li>
 <li>Admin Panel.Admin users are able able to do crud operations.</li>
 <li>Easy Form populator for movie upload. Details of movie and poster can be fetched directly to database. There is option to add manually.</li>
-<li>Movie api. Users are able to add wishlist through api.</li>
+<li>Movie api. Users are able to add wishlist through api(experimental).</li>
 
 ## Installation
-(I didnt delete the vendor. could have dont it but i didnt.)
+(I didnt delete the vendor.you should run composer update.)
 Install Composer
 
 ```
