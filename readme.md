@@ -13,12 +13,13 @@ A Movie Cms Powered by Laravel and Angular.Thsi project can be a perfect headsta
 <img src="https://github.com/sakibwebworm/Movie-Night/blob/master/back.gif" alt="Admin Panel">
 
 #Functionailty
-<li>User Roles</li>
-<li>Admin Panel</li>
-<li>Easy Form populator for movie upload</li>
-<li>Movie api</li>
+<li>User Roles as admin an user. It is possible to add more roles if needed.</li>
+<li>Admin Panel.Admin users are able able to do crud operations.</li>
+<li>Easy Form populator for movie upload. Details of movie and poster can be fetched directly to database. There is option to add manually.</li>
+<li>Movie api. Users are able to add wishlist through api.</li>
 
 ## Installation
+(I didnt delete the vendor. could have dont it but i didnt.)
 Install Composer
 
 ```
