@@ -1,4 +1,4 @@
-A Movie Cms Powered by Laravel and Angular.Thsi project can be a perfect headstart for a video blog,movie review system or anything where your imaginations leads you :).
+A Movie Cms Powered by Laravel and Angular.Thsi project can be a perfect headstart for a video blog,movie review system or anything where your imaginations lead you :).
 
 #Admin Panel
 
