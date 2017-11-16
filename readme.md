@@ -45,5 +45,5 @@ Visit localhost:8000
 
 ## Register as an Admin
 
-Type ckpp345s in code texinput area
+Type ckpp345s in code texinput area (experimental ,remove the code in User.php if you want to deploy.)
 
